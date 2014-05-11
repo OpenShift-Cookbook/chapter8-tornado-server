@@ -2,7 +2,7 @@ Flask==0.10.1
 Jinja2==2.7.2
 MarkupSafe==0.23
 Werkzeug==0.9.4
-gevent==1.0.1
-greenlet==0.4.2
+backports.ssl-match-hostname==3.4.0.2
 itsdangerous==0.24
+tornado==3.2.1
 wsgiref==0.1.2
